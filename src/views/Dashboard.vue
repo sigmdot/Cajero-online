@@ -6,7 +6,10 @@
             <medidor></medidor>
             <medidor></medidor>
         </div>
-        <div class="row">
+        <div class="row mt-2">
+            <tabla></tabla>
+        </div>
+        <div class="row mt-2">
             <tabla></tabla>
         </div>
       </div>
