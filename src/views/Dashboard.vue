@@ -6,16 +6,21 @@
             <medidor></medidor>
             <medidor></medidor>
         </div>
+        <div class="row">
+            <tabla></tabla>
+        </div>
       </div>
   </div>
 </template>
 
 <script>
 import Medidor from '@/components/Medidor.vue'
+import Tabla from '@/components/Tabla.vue'
 export default {
     name:'Dashboard',
     components:{
-        Medidor
+        Medidor,
+        Tabla
     }
 }
 </script>

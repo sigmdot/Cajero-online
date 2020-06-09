@@ -9,8 +9,8 @@
                 <h5>$ 9.999</h5>
             </div>
         </div>
-        <div class="col-4 w-100">
-            <b-icon icon="arrow90deg-up" variant="success"></b-icon>
+        <div class="col-4 w-100 text-center">
+            <b-icon icon="arrow90deg-up" variant="success" class="h-50 w-100 m-2"></b-icon>
         </div>
     </div>
 </template>
