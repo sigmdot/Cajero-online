@@ -1,5 +1,5 @@
 <template>
-  <div class="tabla container-fluid border-right border-left border-top m-2">
+  <div class="tabla container-fluid border-right border-left border-top m-2 bg-white">
       <div class="row p-0">
           <div class="col-12 row border-bottom p-1">
               <h2 class="col-9 border-right text-center">Productos más vendidos</h2>

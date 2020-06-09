@@ -1,5 +1,5 @@
 <template>
-    <div class="medidor col container-fluid row pr-0 m-2">
+    <div class="medidor col-3 container-fluid row pr-0 m-2 bg-white">
         <div class="col-8 border-right pr-0">
             <div class="col-12 p-0">
                 <p class="text-info m-0 p-1">Venta semanal:</p>
