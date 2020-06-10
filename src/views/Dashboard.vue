@@ -28,7 +28,6 @@ import Medidor from '@/components/Medidor.vue'
 import Tabla from '@/components/Tabla.vue'
 import Extra from '@/components/Extra.vue'
 
-
 export default {
     name:'Dashboard',
     components:{

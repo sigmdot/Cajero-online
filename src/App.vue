@@ -1,16 +1,23 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/dashboard">Dashboard</router-link>
-    </div>
-    <div class="bg-light">
+    <Navegador></Navegador>
+    <div class="bg-light padding-top">
       <router-view/>
     </div>
     
   </div>
 </template>
+<script>
+import Navegador from '@/components/Navegador.vue'
 
+export default {
+  components:{
+    Navegador
+  }
+}
+</script>
 <style>
-
+.padding-top{
+  padding-top: 70px;
+}
 </style>
