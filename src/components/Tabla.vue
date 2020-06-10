@@ -30,7 +30,5 @@ export default {
 </script>
 
 <style>
-filas:last-child(){
-    border-bottom: 0px !important;
-}
+
 </style>
